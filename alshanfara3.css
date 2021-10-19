@@ -15,7 +15,7 @@ auto;
 
 .border {
     border: 2px solid #ffffff!important;
-    border-top: 1px solid #000!important;
+    border-top: 1px solid #8b2222!important;
     border-bottom: 1px solid #!important;
 }
 
@@ -34,7 +34,7 @@ ul.nav.nav-tabs {
     width: 100%;
     padding: 3px 1px;
     background-image: linear-gradient( 
-90deg ,#8A2020 0,#8A2020 10%,#892626 51%,#8A2020 89%,#8A2020 100%);
+90deg ,#8A2020 0,#a55c5c 10%,#8a2020 51%,#a55c5c 89%,#8A2020 100%);
 }
 .light {
     
